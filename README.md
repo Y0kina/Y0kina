@@ -110,7 +110,7 @@ flowchart LR
   B --> D[" Networking + Linux"]
   C --> E["Web Dev"]
   D --> E
-  E --> F["Web & Backend<br/>Security"]
+  E --> F["Incoming"]
 
   classDef done fill:#0D1117,stroke:#00FF41,color:#00FF41,stroke-width:2px;
   classDef wip fill:#0D1117,stroke:#F1E05A,color:#F1E05A,stroke-width:2px;
