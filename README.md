@@ -105,12 +105,12 @@ yoka:
 
 ```mermaid
 flowchart LR
-  A["C · Python<br/>Architecture"] --> B["Networking<br/>+ Linux"]
+  A["C · Python<br/>Architecture"] --> B["Computer Architecture"]
   B --> C["SQL &<br/>Databases"]
-  B --> D["Beginner<br/>CTFs"]
-  C --> E["Web & Backend<br/>Security"]
+  B --> D[" Networking + Linux"]
+  C --> E["Web Dev"]
   D --> E
-  E --> F["Pentesting<br/>Cloud Security"]
+  E --> F["Web & Backend<br/>Security"]
 
   classDef done fill:#0D1117,stroke:#00FF41,color:#00FF41,stroke-width:2px;
   classDef wip fill:#0D1117,stroke:#F1E05A,color:#F1E05A,stroke-width:2px;
