@@ -40,7 +40,7 @@ yoka:
 | 🐧 **Linux** | Daily driver practice, shell, permissions, services | 🟩🟩🟩⬜⬜ |
 | 🗄️ **Databases & SQL** | Fundamentals → schemas, queries, design | 🟩🟩⬜⬜⬜ |
 | 🌍 **Web Dev** | HTML / CSS / JS, AI-assisted, ahead of coursework | 🟩🟩⬜⬜⬜ |
-| 💻 **Core CS** | C, Python, Computer Architecture | 🟩🟩🟩⬜⬜ |
+| 💻 **Core CS** | C, Python, Computer Architecture, Network, Web Dev, Operating sys | 🟩🟩🟩⬜⬜ |
 
 </div>
 
