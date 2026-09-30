@@ -18,12 +18,12 @@
 
   <text x="24" y="70" class="t l l1"><tspan class="g">yoka@lab</tspan><tspan class="d">:</tspan><tspan fill="#58A6FF">~</tspan><tspan class="d">$</tspan> ./status.sh</text>
   <text x="24" y="108" class="t l l2"><tspan class="g">[✔]</tspan> Networking internship ............ <tspan class="g">completed</tspan></text>
-  <text x="24" y="108" class="t l l3"><tspan class="g">[✔]</tspan> First Project ............ <tspan class="g">completed</tspan></text>
-  <text x="24" y="138" class="t l l4"><tspan class="y">[~]</tspan> Linux commands ............... <tspan class="y">in progress</tspan></text>
-  <text x="24" y="168" class="t l l5"><tspan class="y">[~]</tspan> Beginner CTFs ................... <tspan class="y">in progress</tspan></text>
-  <text x="24" y="198" class="t l l6"><tspan class="y">[~]</tspan> SQL &amp; Databases ................ <tspan class="y">in progress</tspan></text>
-  <text x="24" y="228" class="t l l7"><tspan class="y">[ ]</tspan> OverTheWire: Bandit ..... <tspan class="y">in progress</tspan></text>
-  <text x="24" y="258" class="t l l8"><tspan class="d">[ ]</tspan> Incoming .. <tspan class="d">planned</tspan></text>
+  <text x="24" y="138" class="t l l3"><tspan class="g">[✔]</tspan> First Project ............ <tspan class="g">completed</tspan></text>
+  <text x="24" y="168" class="t l l4"><tspan class="y">[~]</tspan> Linux commands ............... <tspan class="y">in progress</tspan></text>
+  <text x="24" y="198" class="t l l5"><tspan class="y">[~]</tspan> Beginner CTFs ................... <tspan class="y">in progress</tspan></text>
+  <text x="24" y="228" class="t l l6"><tspan class="y">[~]</tspan> SQL &amp; Databases ................ <tspan class="y">in progress</tspan></text>
+  <text x="24" y="258" class="t l l7"><tspan class="y">[ ]</tspan> OverTheWire: Bandit ..... <tspan class="y">in progress</tspan></text>
+  <text x="24" y="298" class="t l l8"><tspan class="d">[ ]</tspan> Incoming .. <tspan class="d">planned</tspan></text>
 
   <text x="24" y="302" class="t l l8"><tspan class="g">yoka@lab</tspan><tspan class="d">:</tspan><tspan fill="#58A6FF">~</tspan><tspan class="d">$</tspan> </text>
   <rect x="172" y="289" width="9" height="16" fill="#00FF41" class="cur"/>
