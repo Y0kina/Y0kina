@@ -107,9 +107,9 @@ yoka:
 flowchart LR
   A["C · Python<br/>Architecture"] --> B["Computer Architecture"]
   B --> C["SQL &<br/>Databases"]
-  B --> D[" Networking + Linux"]
-  C --> E["Web Dev"]
-  D --> E
+  B --> D[" Networking"]
+  C --> E["Linux"]
+  D --> E["Web Dev"]
   E --> F["Incoming"]
 
   classDef done fill:#0D1117,stroke:#00FF41,color:#00FF41,stroke-width:2px;
@@ -117,6 +117,7 @@ flowchart LR
   classDef next fill:#0D1117,stroke:#6E7681,color:#8B949E,stroke-dasharray:4 4;
   class A,B done;
   class C,D wip;
+  class D,E wip;
   class E,F next;
 ```
 
