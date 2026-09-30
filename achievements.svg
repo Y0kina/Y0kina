@@ -1,11 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 370" width="800" height="370" role="img" aria-label="Achievements terminal">
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 800 460"
+     width="800"
+     height="460"
+     role="img"
+     aria-label="Achievements terminal">
+
   <style>
-    .t { font-family: 'Fira Code','SF Mono',Consolas,'Courier New',monospace; font-size: 15px; fill: #C9D1D9; }
+    .t {
+      font-family: 'Fira Code','SF Mono',Consolas,'Courier New',monospace;
+      font-size: 15px;
+      fill: #C9D1D9;
+    }
+
     .g { fill: #00FF41; }
     .y { fill: #F1E05A; }
     .d { fill: #6E7681; }
 
-    .l { opacity: 0; animation: show 0.01s forwards; }
+    .l {
+      opacity: 0;
+      animation: show 0.01s forwards;
+    }
+
     .l1 { animation-delay: .3s; }
     .l2 { animation-delay: 1s; }
     .l3 { animation-delay: 1.5s; }
@@ -13,11 +28,14 @@
     .l5 { animation-delay: 2.5s; }
     .l6 { animation-delay: 3s; }
     .l7 { animation-delay: 3.5s; }
-    .l8 { animation-delay: 4.2s; }
+    .l8 { animation-delay: 4s; }
+    .l9 { animation-delay: 4.5s; }
+    .l10 { animation-delay: 5s; }
+    .l11 { animation-delay: 5.5s; }
 
     .cur {
       animation: blink 1s steps(1) infinite;
-      animation-delay: 4.2s;
+      animation-delay: 5.5s;
       opacity: 0;
     }
 
@@ -31,55 +49,101 @@
     }
   </style>
 
-  <rect x="1" y="1" width="798" height="368" rx="12"
-        fill="#0D1117" stroke="#00FF41" stroke-opacity="0.6" stroke-width="2"/>
+  <!-- Terminal window -->
+  <rect x="1" y="1"
+        width="798"
+        height="458"
+        rx="12"
+        fill="#0D1117"
+        stroke="#00FF41"
+        stroke-opacity="0.6"
+        stroke-width="2"/>
 
-  <rect x="1" y="1" width="798" height="36" rx="12" fill="#161B22"/>
-  <rect x="1" y="24" width="798" height="13" fill="#161B22"/>
+  <!-- Header -->
+  <rect x="1" y="1"
+        width="798"
+        height="36"
+        rx="12"
+        fill="#161B22"/>
 
+  <rect x="1" y="24"
+        width="798"
+        height="13"
+        fill="#161B22"/>
+
+  <!-- Window buttons -->
   <circle cx="26" cy="19" r="6" fill="#FF5F56"/>
   <circle cx="48" cy="19" r="6" fill="#FFBD2E"/>
   <circle cx="70" cy="19" r="6" fill="#27C93F"/>
 
-  <text x="400" y="24" text-anchor="middle" class="t d" style="font-size:13px">
+  <!-- Terminal title -->
+  <text x="400"
+        y="24"
+        text-anchor="middle"
+        class="t d"
+        style="font-size:13px">
     yoka@lab: ~/achievements
   </text>
 
+  <!-- Command -->
   <text x="24" y="70" class="t l l1">
     <tspan class="g">yoka@lab</tspan><tspan class="d">:</tspan><tspan fill="#58A6FF">~</tspan><tspan class="d">$</tspan> ./status.sh
   </text>
 
+  <!-- Completed -->
   <text x="24" y="108" class="t l l2">
-    <tspan class="g">[✔]</tspan> Networking internship ............ <tspan class="g">completed</tspan>
+    <tspan class="g">[✔]</tspan> C ............................... <tspan class="g">completed</tspan>
   </text>
 
   <text x="24" y="138" class="t l l3">
-    <tspan class="g">[✔]</tspan> First Project ............ <tspan class="g">completed</tspan>
+    <tspan class="g">[✔]</tspan> Python .......................... <tspan class="g">completed</tspan>
   </text>
 
   <text x="24" y="168" class="t l l4">
-    <tspan class="y">[~]</tspan> Linux commands ............... <tspan class="y">in progress</tspan>
+    <tspan class="g">[✔]</tspan> Hardware ......................... <tspan class="g">completed</tspan>
   </text>
 
   <text x="24" y="198" class="t l l5">
-    <tspan class="y">[~]</tspan> Beginner CTFs ................... <tspan class="y">in progress</tspan>
+    <tspan class="g">[✔]</tspan> Networking internship ............ <tspan class="g">completed</tspan>
   </text>
 
   <text x="24" y="228" class="t l l6">
+    <tspan class="g">[✔]</tspan> First Project ................... <tspan class="g">completed</tspan>
+  </text>
+
+  <!-- In progress -->
+  <text x="24" y="258" class="t l l7">
+    <tspan class="y">[~]</tspan> Linux commands ............... <tspan class="y">in progress</tspan>
+  </text>
+
+  <text x="24" y="288" class="t l l8">
+    <tspan class="y">[~]</tspan> Beginner CTFs ................... <tspan class="y">in progress</tspan>
+  </text>
+
+  <text x="24" y="318" class="t l l9">
     <tspan class="y">[~]</tspan> SQL &amp; Databases ................ <tspan class="y">in progress</tspan>
   </text>
 
-  <text x="24" y="258" class="t l l7">
-    <tspan class="y">[~]</tspan> OverTheWire: Bandit ..... <tspan class="y">in progress</tspan>
+  <text x="24" y="348" class="t l l10">
+    <tspan class="y">[~]</tspan> OverTheWire: Bandit .............. <tspan class="y">in progress</tspan>
   </text>
 
-  <text x="24" y="298" class="t l l8">
-    <tspan class="d">[ ]</tspan> Incoming .. <tspan class="d">planned</tspan>
+  <!-- Planned -->
+  <text x="24" y="388" class="t l l11">
+    <tspan class="d">[ ]</tspan> Incoming ......................... <tspan class="d">planned</tspan>
   </text>
 
-  <text x="24" y="338" class="t l l8">
+  <!-- Final prompt -->
+  <text x="24" y="428" class="t l l11">
     <tspan class="g">yoka@lab</tspan><tspan class="d">:</tspan><tspan fill="#58A6FF">~</tspan><tspan class="d">$</tspan>
   </text>
 
-  <rect x="172" y="325" width="9" height="16" fill="#00FF41" class="cur"/>
+  <!-- Cursor -->
+  <rect x="172"
+        y="415"
+        width="9"
+        height="16"
+        fill="#00FF41"
+        class="cur"/>
+
 </svg>
