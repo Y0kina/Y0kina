@@ -110,7 +110,7 @@ flowchart LR
   B --> D[" Networking"]
   C --> E["Linux"]
   D --> E["Web Dev"]
-  E --> F["Incoming"]
+  F --> G["Incoming"]
 
   classDef done fill:#0D1117,stroke:#00FF41,color:#00FF41,stroke-width:2px;
   classDef wip fill:#0D1117,stroke:#F1E05A,color:#F1E05A,stroke-width:2px;
@@ -118,7 +118,7 @@ flowchart LR
   class A,B done;
   class C,D wip;
   class D,E wip;
-  class E,F next;
+  class F,G next;
 ```
 
 <br>
