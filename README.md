@@ -4,7 +4,7 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Y0kina&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://hits.sh/github.com/Y0kina/Y0kina.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=00FF41&labelColor=0D1117)
 ![Status](https://img.shields.io/badge/Status-Learning-00FF41?style=for-the-badge&logo=linux&logoColor=black&labelColor=0D1117)
 ![Focus](https://img.shields.io/badge/Focus-Cybersecurity-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=0D1117)
 ![Location](https://img.shields.io/badge/Morocco-🇲🇦-00FF41?style=for-the-badge&labelColor=0D1117)
