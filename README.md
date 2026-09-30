@@ -123,17 +123,6 @@ flowchart LR
 
 <br>
 
-## 📁 Featured Projects
-
-<!-- Replace with your real repos. Pin the best 4–6 on your profile too. -->
-
-| Project | Description | Stack |
-|:---|:---|:---|
-| 🔗 **[project-one](https://github.com/Y0kina)** | One-line description of what it does and why it matters | `Python` |
-| 🔗 **[project-two](https://github.com/Y0kina)** | One-line description of what it does and why it matters | `C` |
-| 🔗 **[project-three](https://github.com/Y0kina)** | One-line description of what it does and why it matters | `HTML` `CSS` `JS` |
-
-<br>
 
 ## 📊 GitHub Stats
 
