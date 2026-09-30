@@ -136,7 +136,7 @@ flowchart LR
 
 <br>
 
-<img src="./assets/achievements.svg" alt="Achievements terminal" width="80%" />
+<img src="./achievements.svg" alt="Achievements terminal" width="80%" />
 
 </div>
 
