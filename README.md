@@ -167,7 +167,6 @@ flowchart LR
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.alaabqary08@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-al-aabqary-3922543b7/)
 <br>
 
 *"Stay curious. Stay humble. **Break it to understand it, build it to protect it.**"* ⚡
